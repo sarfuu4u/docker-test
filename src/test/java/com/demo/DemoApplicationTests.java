@@ -12,6 +12,6 @@ class DemoApplicationTests {
 	}
     @Test
     void content(){
-        System.out.println("hii");
+        System.out.println("done");
     }
 }
